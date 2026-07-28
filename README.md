@@ -24,3 +24,5 @@ The notebook includes explanations, examples, and exercises covering the core co
 - Statistical Functions
 - NumPy with Pandas
 - Practice Examples
+- pandasbasics.ipynb -> consists basics concepts
+- pandaspractice.ipynb -> consists the contents that i practiced.
